@@ -3,7 +3,7 @@ A collection of machine learning projects exploring reinforcement learning, audi
 
 **`#1: Reinforcement learning - OpenAI Gym – Frozen Lake Environment`**
 
-       Implemented Q-learning to solve the stochastic navigation problem in OpenAI Gym’s Frozen Lake environment. The task involved learning an optimal policy to navigate through a 4x4 grid, starting from the top-left corner and reaching the bottom-right goal. Experiments were conducted using both deterministic (non-slippery) and non-deterministic (slippery) versions of the environment. Multiple runs were performed to assess performance and the impact of hyperparameters like the learning rate (α) and discount factor (γ), with graphs generated to visualize average reward improvement across training episodes.
+Implemented Q-learning to solve the stochastic navigation problem in OpenAI Gym’s Frozen Lake environment. The task involved learning an optimal policy to navigate through a 4x4 grid, starting from the top-left corner and reaching the bottom-right goal. Experiments were conducted using both deterministic (non-slippery) and non-deterministic (slippery) versions of the environment. Multiple runs were performed to assess performance and the impact of hyperparameters like the learning rate (α) and discount factor (γ), with graphs generated to visualize average reward improvement across training episodes.
 
 **`#2: Reinforcement learning (Q-learning, Q-network) - OpenAI Gym – Taxi`**
 
